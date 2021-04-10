@@ -1,3 +1,3 @@
 # GITHUB-PAGES
 
-This is for I4G Internship
+Responsive web page task.
